@@ -1,0 +1,14 @@
+/* This is the example of external styling
+External styling has least proriety then internal then inline Styling-->*/
+
+article{
+    color:yellow
+}
+
+/* Selectors
+
+element selector:Example above as all articles will have same css.
+universal selector: defined using * so all the element have same property if not provided particularly
+id and class: for id use # and for class use . id is used for particular element and class can consist of group of elements.
+Group selector: example like h1,h2,h3{properties:value} as all three will have same style.
+descendent selector: This is used as you want particular element to have a style not other as example #first p{property:value} here you specifies that style only element which is nested with first as id */
