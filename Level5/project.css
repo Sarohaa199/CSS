@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    padding: 5px;
+}
+nav a{
+    text-decoration: none;
+    margin-left: 55px;
+    padding: 5px;
+    color: whitesmoke;
+}
+
+header{
+    background-color: darkslategray;
+    height: 30px;
+}
+
+#second{
+    height: 50px;
+    width: 50px;
+    background-color: green;
+}
+
+.Box{
+    height: 100px;
+    width: 100px;
+    background-color: violet;
+    margin: 5px;
+    display: inline-block;
+}
+
+#container{
+    border: 3px solid yellow;
+    margin: 5px;
+}
+
+#box2{
+    z-index: 2;
+    position: absolute;
+    left: 20px;
+    top: 120px;
+}
+
+#box3{
+    position: fixed;
+    right: 20px;
+}
+
+footer{
+    position: fixed;
+    bottom: 0px;
+    background-color: aquamarine;
+}
