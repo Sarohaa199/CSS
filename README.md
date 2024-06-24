@@ -1,2 +1,2 @@
 # Portfolio
-This is my portfolio as a Full Stack developer
+This was my first Css learning path. i have learned many things from basic to box,flex ,grid, animation.
